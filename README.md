@@ -1,9 +1,9 @@
 # ephemera
 Collection of artifacts
 
-catalog.csv = master metadata
-images/ = source images
-site/ = generated static website
+* catalog.csv = master metadata
+* images/ = source images
+* site/ = generated static website
 
 Build:
 npm run build
